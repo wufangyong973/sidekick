@@ -17,3 +17,7 @@ packaging/aur/pkg/
 packaging/aur/src/
 packaging/aur/*.tar.gz
 packaging/aur/*.zst
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
