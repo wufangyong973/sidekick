@@ -7,6 +7,7 @@ __pycache__/
 .env
 .coverage
 coverage.xml
+temp_auto_push.bat
 htmlcov/
 dist/
 build/
@@ -17,3 +18,5 @@ packaging/aur/pkg/
 packaging/aur/src/
 packaging/aur/*.tar.gz
 packaging/aur/*.zst
+.gitignore
+branch_structure.json
